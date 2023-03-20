@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm 3bdo</h1>
 <h3 align="center">A passionate english student who is willing to become a software engineer from Morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=div-styl&label=Profile%20views&color=0e75b6&style=flat" alt="div-styl" /> </p>
+<img scr="https://miro.medium.com/v2/resize:fit:800/1*esUaKQ_UivmSUOudoEFHMQ.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=div-styl" alt="div-styl" /></a> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=div-styl&label=Profile%20views&color=0e75b6&style=flat" alt="div-styl" /> </p>
 <p align="left"> <a href="https://twitter.com/a3bdor7man" target="blank"><img src="https://img.shields.io/twitter/follow/a3bdor7man?logo=twitter&style=for-the-badge" alt="a3bdor7man" /></a> </p>
 
 - 🔭 I’m currently working on **some C- projects**
