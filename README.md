@@ -1,29 +1,118 @@
-<h1 align="center">Hi 👋, I'm 3bdo</h1>
-<h3 align="center">A passionate english student who is willing to become a software engineer from Morocco</h3>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-<img scr="https://miro.medium.com/v2/resize:fit:800/1*esUaKQ_UivmSUOudoEFHMQ.gif">
+### <div align="center">I'm 3bdo, an  English student located in Morocco. I am willing to become a software engineer in future </div>  
+  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=div-styl" alt="div-styl" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=div-styl&label=Profile%20views&color=0e75b6&style=flat" alt="div-styl" /> </p>
-<p align="left"> <a href="https://twitter.com/a3bdor7man" target="blank"><img src="https://img.shields.io/twitter/follow/a3bdor7man?logo=twitter&style=for-the-badge" alt="a3bdor7man" /></a> </p>
+- 🔭 I’m currently working on [Github Profilinator](https://github.com/div-styl/C-projectr)  
+  
 
-- 🔭 I’m currently working on **some C- projects**
+- 🌱 I’m currently learning C and python   
+  
 
-- 🌱 I’m currently learning **C basics**
+- ❓ Ask me about anything related to C basics  
+  
 
-- ⚡ Fun fact **I git pissed off when the code runs with an error**
+- ⚡ Fun fact: I use tabs over spaces  
+  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/a3bdor7man" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a3bdor7man" height="30" width="40" /></a>
-<a href="https://www.behance.net/abdrahmgouhmad1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="abdrahmgouhmad1" height="30" width="40" /></a>
-</p>
+<div align="center">
+<img src="https://i.gifer.com/PqVL.gif" align="center" height="200" width="" />
+</div>  
+  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<br/>  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=div-styl&show_icons=true&locale=en&layout=compact" alt="div-styl" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=div-styl&show_icons=true&locale=en" alt="div-styl" /></p>
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=div-styl&" alt="div-styl" /></p>
+
+
+### Frontend  
+<div align="center">  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Other things  
+<div align="center">  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/div-styl" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/@a3bdor7man" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/abderrahman-gouhmad-8a4096211" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.behance.net/abdrahmgouhmad1" target="_blank">
+<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=div-styl&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=div-styl&hide_border=true&layout=compact" align="left" />  
+
+<br/>  
+
+
+## Recent Blog Posts  
+<div align="right">Usually I am writing but didn't post something yest</div>  
+  
+
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=9c5pea7c2q599msw7wq4ahvw4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=div-styl&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
