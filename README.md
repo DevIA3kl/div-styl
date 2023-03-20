@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm 3bdo</h1>
 <h3 align="center">A passionate english student who is willing to become a software engineer from Morocco</h3>
-<image align= "center" alt="Coding" width="400" scr= "https://miro.medium.com/v2/resize:fit:800/1*esUaKQ_UivmSUOudoEFHMQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=div-styl&label=Profile%20views&color=0e75b6&style=flat" alt="div-styl" /> </p>
 
